@@ -1,0 +1,64 @@
+.ans {
+  height: 60px;
+  background-color: #ffd4d4;
+  width: 100%;
+  border:1px solid black;
+}
+
+.ans p {
+  font-size: 40px;
+  margin: 5px;
+}
+
+.showReport{
+  max-width: 200px;
+  align-content: left;
+}
+.showReport p{
+    color:white;
+}
+
+.design-calc {
+  max-width: 400px;
+  margin: auto;
+  margin-top: -310px;
+}
+
+.button-design {
+  display: block;
+  background-color: #bbb;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+  border:1px solid black;
+}
+
+#number{
+  background-color: #32CD32;
+}
+
+#symbol{
+  background-color: #FF4500;
+}
+
+#special{
+  background-color: #FF00FF;
+  font-size: 19px;
+}
+#bracket{
+  background-color: #fff138;
+}
+
+#report{
+  width: 25%;
+  height: 40px;
+  font-size: 25px;
+  border:2px solid black;
+}
+
+html{
+  background-color: #2148dcc7;
+}
